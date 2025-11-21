@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const presets = {
         google: {
             favicon: "/images/icons/google.ico",
-            title: "Google"
+            title: "Fent"
         },
         bing: {
             favicon: "/images/icons/bing.ico",
